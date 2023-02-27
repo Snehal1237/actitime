@@ -2,9 +2,4 @@ All types of locator
 
 driver.findelementBy.id
 driver.findelementBy.name
-driver.findelementBy.class
-driver.findelementBy.tagname
-driver.findelementBy.linktext
-driver.findelementBy.partiallinktext
-driver.findelementBy.cssselector
-driver.findelementBy.xpath
+driver.manage().window().maximize();
